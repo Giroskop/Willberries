@@ -1,0 +1,12 @@
+						<div class="col-12 col-md-10 col-lg-5 col-xl-4">
+								<div class="form-main form">
+									<div class="form-title">
+										Закажите макетные материалы 
+										прямо сейчас
+									</div>
+									<!-- /.form-title -->
+									<?php echo do_shortcode( '[contact-form-7 id="190" title="main-form"]'); ?>
+									<div class="form-small">
+										Нажимая на кнопку оставить заявку
+										вы соглашаетесь с <div class="show-politic">политикой обработки данных</div>
+									</div>
